@@ -1,0 +1,15 @@
+.home {
+    background-color: #01FA8B;
+    border: 2px gray solid;
+    color: black;
+    padding: 13px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 0px;
+    cursor: pointer;
+    position: absolute;
+    top: 124px;
+    left: 50px;
+}
